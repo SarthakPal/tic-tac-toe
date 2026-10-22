@@ -1,0 +1,5 @@
+Requirements
+
+Size of the board should be scalable.
+There are standard game rules & should be further extendible.
+Allow an app notification for Tic-Tac-Toe moves, wins, draws etc.
